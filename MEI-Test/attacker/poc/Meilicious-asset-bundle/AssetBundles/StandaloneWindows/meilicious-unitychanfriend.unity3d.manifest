@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 2200338878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edcfe846da8b3cdf5a9819d0b74b5030
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 305bde7667de8c254e1bd1697380f3a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d00c620f7a54104f8199053fd22b8fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e07719f1ed7a3d14db5de524eae8565f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4193ee930268f554884f167532fd4cc7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f21ce7bbe79850488eb74ff83ecdee0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a72e26aed6e0f22409129befef06a820, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Zombie/ZombieHQ_material5_AlbedoTransparency.png
+- Assets/Zombie/Materials/ZombieHQ_material5_AlbedoTransparency.mat
+- Assets/Zombie/Materials/material.002.mat
+- Assets/Zombie/ZombieHQ_material4_Albedo.png
+- Assets/Zombie/ZombieHQ_material_SpecularSmoothness.png
+- Assets/Zombie/Materials/material.003.mat
+- Assets/Zombie/ZombieHQ_material3_Ambient.png
+- Assets/Zombie/ZombieHQ_material4_Normal.png
+- Assets/Zombie/Materials/ZombieHQ_material4_Albedo.mat
+- Assets/Zombie/ZombieRig.fbx
+- Assets/Zombie/ZombieHQ_material_AlbedoTransparency.png
+- Assets/Zombie/ZombieHQ_material3_SpecularSmoothness.png
+- Assets/Zombie/ZombieHQ_material2_AlbedoTransparency.png
+- Assets/Zombie/ZombieHQ_material4_Ambient.png
+- Assets/Zombie/ZombieHQ_material5_Ambient.png
+- Assets/Zombie/ZombieRig.prefab
+- Assets/Zombie/Materials/material.mat
+- Assets/Zombie/ZombieHQ_material5_Normal.png
+- Assets/Zombie/ZombieHQ_material5_SpecularSmoothness.png
+- Assets/Zombie/ZombieHQ_material2_SpecularSmoothness.png
+- Assets/Zombie/ZombieHQ_material4_SpecularSmoothness.png
+- Assets/Zombie/ZombieHQ_material1_SpecularSmoothness.png
+- Assets/Zombie/friend.prefab
+- Assets/Zombie/Materials/ZombieHQ_material_AlbedoTransparency.mat
+- Assets/Zombie/ZombieHQ_material_Normal.png
+- Assets/Zombie/Materials/material.005.mat
+- Assets/Zombie/Materials/material.001.mat
+- Assets/Zombie/ZombieHQ_material4_AlbedoTransparency.png
+- Assets/Zombie/Materials/RetopoPantsUV_TXTR.mat
+- Assets/Zombie/ZombieHQ_material3_AlbedoTransparency.png
+- Assets/Zombie/ZombieHQ_material3_Normal.png
+- Assets/Zombie/PantsALpha1.png
+- Assets/Zombie/ZombieHQ_material2_Normal.png
+- Assets/Zombie/ZombieHQ_material1_Normal.png
+- Assets/Zombie/ZombieHQ_material2_Ambient.png
+Dependencies: []

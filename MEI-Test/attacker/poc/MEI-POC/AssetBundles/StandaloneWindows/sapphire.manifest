@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2575027012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4f1c292b16ff4b1f0ba8e5c3e20726d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/Scenes/SceneLoader.unity
+Dependencies: []

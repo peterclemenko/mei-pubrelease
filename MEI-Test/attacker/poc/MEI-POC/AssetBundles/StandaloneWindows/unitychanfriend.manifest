@@ -1,0 +1,153 @@
+ManifestFileVersion: 0
+CRC: 1506117815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e86eb2d8e326783d0e2b67b3c30ef6ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a485e00b68124fa970bca004455c3e3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d00c620f7a54104f8199053fd22b8fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc053d91e27881144a4aaf78714a6e6c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e07719f1ed7a3d14db5de524eae8565f, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f21ce7bbe79850488eb74ff83ecdee0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a72e26aed6e0f22409129befef06a820, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ccb49676687917499386abab8234bd6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9aa09b6b8a848f34bb92224eb514429b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/SapphiArt/SapphiArtchan/MAT/Sapphi_chequer_c_MAT.mat
+- Assets/SapphiArt/SapphiArtchan/TEX/Sapphi_hairhead_psd.tga
+- Assets/SapphiArt/SapphiArtchan/Prefab/EventSystem.prefab
+- Assets/SapphiArt/SapphiArtchan/Prefab/Ground.prefab
+- Assets/SapphiArt/SapphiArtchan/MAT/Sapphi_hairhead_psd_MAT.mat
+- Assets/SapphiArt/SapphiArtchan/Animation/KO_big.anim
+- Assets/SapphiArt/SapphiArtchan/OBJ/SapphiArtchan.fbx
+- Assets/SapphiArt/SapphiArtchan/TEX/Sapphi_underwear_c.TGA
+- Assets/SapphiArt/SapphiArtchan/OBJ/Materials/Sapphi_eye_c.mat
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@idle.fbx
+- Assets/SapphiArt/SapphiArtchan/MAT/Sapphi_underwear_c_MAT.mat
+- Assets/SapphiArt/SapphiArtchan/TEX/Sapphi_hairhead_c.tga
+- Assets/SapphiArt/SapphiArtchan/FBX/Materials/Sapphi_clothes_c.mat
+- Assets/SapphiArt/SapphiArtchan/MAT/Sapphi_glow_c_MAT.mat
+- Assets/SapphiArt/SapphiArtchan/Prefab/Directional light.prefab
+- Assets/SapphiArt/SapphiArtchan/OBJ/SapphiArtchan.prefab
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@damage.fbx
+- Assets/SapphiArt/SapphiArtchan/OBJ/Materials/Sapphi_underwear_c.mat
+- Assets/SapphiArt/SapphiArtchan/FBX/Materials/Sapphi_eye_c.mat
+- Assets/SapphiArt/SapphiArtchan/Animation/hit03.anim
+- Assets/SapphiArt/SapphiArtchan/Prefab/Main Camera.prefab
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@hit02.fbx
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@jump.fbx
+- Assets/SapphiArt/SapphiArtchan/Animation/damage.anim
+- Assets/SapphiArt/SapphiArtchan/Animation/winpose.anim
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@ko.fbx
+- Assets/SapphiArt/SapphiArtchan/TEX/Sapphi_glow_c.TGA
+- Assets/SapphiArt/SapphiArtchan/Prefab/AnimationManagerUICanvas.prefab
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@running.fbx
+- Assets/SapphiArt/SapphiArtchan/Animation/running.anim
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@winpose.fbx
+- Assets/SapphiArt/SapphiArtchan/Animation/hit02.anim
+- Assets/SapphiArt/SapphiArtchan/OBJ/Materials/Sapphi_chequer_c.mat
+- Assets/SapphiArt/SapphiArtchan/FBX/Materials/Sapphi_underwear_c.mat
+- Assets/SapphiArt/SapphiArtchan/MAT/Sapphi_eye_c_MAT.mat
+- Assets/SapphiArt/SapphiArtchan/TEX/Sapphi_chequer_c.tga
+- Assets/SapphiArt/SapphiArtchan/FBX/Materials/Sapphi_chequer_c.mat
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@walk.fbx
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart_model.fbx
+- Assets/SapphiArt/SapphiArtchan/TEX/Sapphi_eye_c.tga
+- Assets/SapphiArt/SapphiArtchan/Animation/jump.anim
+- Assets/SapphiArt/SapphiArtchan/TEX/Sapphi_bodysuit_c.TGA
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@hit01.fbx
+- Assets/SapphiArt/SapphiArtchan/Animation/idle 1.anim
+- Assets/SapphiArt/SapphiArtchan/MAT/Sapphi_hairhead_c_MAT.mat
+- Assets/SapphiArt/SapphiArtchan/OBJ/Materials/Sapphi_hairhead_c.mat
+- Assets/SapphiArt/SapphiArtchan/Prefab/AnimationManagerUI.prefab
+- Assets/SapphiArt/SapphiArtchan/Animation/default.anim
+- Assets/SapphiArt/SapphiArtchan/Animation/walk.anim
+- Assets/SapphiArt/SapphiArtchan/FBX/Materials/Sapphi_hairhead_c.mat
+- Assets/SapphiArt/SapphiArtchan/Animation/hit01.anim
+- Assets/SapphiArt/SapphiArtchan/TEX/Sapphi_clothes_c.tga
+- Assets/SapphiArt/SapphiArtchan/MAT/Sapphi_clothes_c_MAT.mat
+- Assets/SapphiArt/SapphiArtchan/Animation/SapphiArtchanAnimController.controller
+- Assets/SapphiArt/SapphiArtchan/FBX/Sapphiart@hit03.fbx
+- Assets/SapphiArt/SapphiArtchan/Animation/idle.anim
+- Assets/SapphiArt/friend.prefab
+- Assets/SapphiArt/SapphiArtchan/OBJ/Materials/Sapphi_clothes_c.mat
+Dependencies: []

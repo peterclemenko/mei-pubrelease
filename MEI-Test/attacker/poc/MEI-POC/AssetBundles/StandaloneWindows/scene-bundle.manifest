@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 27062295
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2303b22aa6b4e9d38da909d792379687
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/TestScene.unity
+Dependencies:
+- D:/mei/MEI-Test/attacker/poc/MEI-POC/AssetBundles/StandaloneWindows/material-bundle

@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2673596587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4b34222a49a74973206f4553fd70590
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/Variants/VariantScene.unity
+Dependencies:
+- D:/boop/dev/Unity/mei-test/MEI-Test/attacker/poc/Meilicious-asset-bundle/AssetBundles/StandaloneWindows/variants/myassets.hd

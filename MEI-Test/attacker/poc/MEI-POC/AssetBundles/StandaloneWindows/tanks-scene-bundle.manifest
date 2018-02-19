@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1213452123
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6fcb70bfe09927cafb89649c666809c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/Tanks/Scenes/TanksExample.unity
+Dependencies:
+- D:/mei/MEI-Test/attacker/poc/MEI-POC/AssetBundles/StandaloneWindows/tanks-albedo.normal-hd
